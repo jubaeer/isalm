@@ -227,6 +227,7 @@ textarea::placeholder{
     
     text-align: center;
     padding: 10px;
+    
 }
 .bottom-end a{
     color: black;
@@ -243,5 +244,13 @@ textarea::placeholder{
 .bottom-end a:hover{
     text-decoration: underline;
     color: tomato;
+}
+.end{
+    text-align: center;
+       
+}
+.fb{
+    width: 30px;
+  
 }
 
